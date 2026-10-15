@@ -1,0 +1,12 @@
+KABI CAFÉ & BRUNCH — PROPUESTA VISUAL NO OFICIAL
+
+1. Descomprime el ZIP.
+2. Abre index.html en Chrome para ver la página.
+3. Para publicar, sube index.html, style.css y script.js juntos a GitHub/Netlify.
+
+IMPORTANTE:
+- Este es un diseño demostrativo inspirado en capturas del local; no es el sitio oficial.
+- Las imágenes se descargan desde Unsplash y requieren conexión a internet.
+- No se han reutilizado las fotografías originales de las capturas, ni se afirma afiliación.
+- La carta, los horarios, el teléfono y las redes sociales reales no fueron facilitados; por eso no se inventaron.
+- Sustituye las fotos por imágenes autorizadas y verifica los datos antes de presentar o publicar para el establecimiento.
